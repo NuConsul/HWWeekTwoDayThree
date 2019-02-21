@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HWWeekTwoDayThree</string>
+
+
+    <string name="good_morning">Good Morning</string>
+    <string name="good_afternoon">Good Afternoon</string>
+    <string name="good_night">Good Night</string>
+    <string name="please">Please</string>
+    <string name="thank_you">Thank You</string>
+
+</resources>

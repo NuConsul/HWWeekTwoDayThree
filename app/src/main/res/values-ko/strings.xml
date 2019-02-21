@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HWWeekTwoDayThree</string>
+
+
+
+
+    <string name="good_morning">좋은 아침</string>
+    <string name="good_afternoon">안녕하세요</string>
+    <string name="good_night">안녕히 주무세요</string>
+    <string name="please">부디</string>
+    <string name="thank_you">고맙습니다</string>
+
+
+</resources>

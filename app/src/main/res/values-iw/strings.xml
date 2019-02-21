@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HWWeekTwoDayThree</string>
+
+
+    <!--
+       <string name="good_morning">Subax Wanaagsan</string>
+    <string name="good_afternoon">Galab wanaagsan</string>
+    <string name="good_night">Habeen Wanaagsan</string>
+    <string name="please">Fadlan</string>
+    <string name="thank_you">Mahadsanid</string>
+
+    -->
+
+    <string name="good_morning">בוקר טוב</string>
+    <string name="good_afternoon">אחר הצהריים טובים</string>
+    <string name="good_night">לילה טוב</string>
+    <string name="please">אנא</string>
+    <string name="thank_you">תודה</string>
+
+
+</resources>
